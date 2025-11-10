@@ -1,0 +1,21 @@
+{
+  "short_name": "PowerChat",
+  "name": "Gemini PowerChat",
+  "description": "A powerful, multi-modal AI chat interface powered by the Gemini API, featuring text, image, video, and grounded generation.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111"
+}

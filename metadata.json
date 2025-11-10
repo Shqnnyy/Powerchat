@@ -1,0 +1,8 @@
+{
+  "name": "Gemini PowerChat",
+  "description": "A powerful, multi-modal AI chat interface powered by the Gemini API, featuring text, image, video, and grounded generation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
